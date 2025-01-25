@@ -24,8 +24,6 @@ Embora os códigos tenham sido desenvolvidos no PlatformIO (VS Code), eles são 
 1. [Bluetooth Relé](#bluetooth-rele)
 2. [Bluetooth Veículo](#bluetooth-veiculo)
 3. [MQTT com analogRead](#mqtt-com-analogread)
-4. [Bluetooth MP3](#bluetooth-mp3)
-
 
 ## Bluetooth Relé
 
@@ -45,9 +43,4 @@ Este código conecta o ESP32 a uma rede MQTT e lê os dados de um sensor analóg
 
 ---
 
-## Bluetooth MP3
-
-Código simplificado para acionamento de sons com um módulo MP3 via Bluetooth utilizando aplicativo. O objetivo do código é dar suporte ao uso em projetinhos de robôs e não utiliza comandos como Pause, Next, e Previous.
-
----
 
