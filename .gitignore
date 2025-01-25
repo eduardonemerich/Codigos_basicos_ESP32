@@ -1,0 +1,14 @@
+
+/analogRead_MQTT/test
+/analogRead_MQTT/lib
+/analogRead_MQTT/include
+/analogRead_MQTT/.vscode
+
+/Bluetooth_rele/test
+/Bluetooth_rele/lib
+/Bluetooth_rele/include
+/Bluetooth_rele/.vscode
+/Bluetooth_veiculo/test
+/Bluetooth_veiculo/include
+/Bluetooth_veiculo/.vscode
+/Bluetooth_veiculo/lib
